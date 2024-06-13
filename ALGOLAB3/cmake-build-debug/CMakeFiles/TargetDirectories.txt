@@ -1,3 +1,0 @@
-D:/ITMO/1_SEM/ALGO/ALGOLAB3/cmake-build-debug/CMakeFiles/ALGO_LAB3.dir
-D:/ITMO/1_SEM/ALGO/ALGOLAB3/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/ITMO/1_SEM/ALGO/ALGOLAB3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
