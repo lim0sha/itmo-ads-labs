@@ -8,3 +8,5 @@
 - **[Lab6](Semester_1/ALGOLAB6/Labwork6.md)** - AVL
 - **[Lab7.1](Semester_1/ALGOLAB7/Labwork7.1.md)** - Encryption
 - **[Lab7.2](Semester_1/ALGOLAB7/Labwork7.2.md)** - Dynamic Programming
+- **[Livecoding1](Semester_1/LC1/LC1.md)**
+- **[Livecoding2](Semester_1/LC2/LC2.md)**
