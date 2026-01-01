@@ -1,5 +1,6 @@
 # Labs
 ***
+### Semester 1:
 - **[Lab1](Semester_1/ALGOLAB1/Labwork1.md)** - Basics
 - **[Lab2](Semester_1/ALGOLAB2/Labwork2.md)** - Sorting Algorithms
 - **[Lab3](Semester_1/ALGOLAB3/Labwork3.md)** - Stack, Queue
@@ -10,3 +11,6 @@
 - **[Lab7.2](Semester_1/ALGOLAB7/Labwork7.2.md)** - Dynamic Programming
 - **[Livecoding1](Semester_1/LC1/LC1.md)**
 - **[Livecoding2](Semester_1/LC2/LC2.md)**
+
+### Semester 2:
+- **[Lab8](Semester_2/ALGOLAB8/Labwork8.md)** - Graphs Basics
