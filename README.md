@@ -14,3 +14,4 @@
 
 ### Semester 2:
 - **[Lab8](Semester_2/ALGOLAB8/Labwork8.md)** - Graphs Basics
+- **[Lab9](Semester_2/ALGOLAB9/Labwork9.md)** - Graph Path Traversals
